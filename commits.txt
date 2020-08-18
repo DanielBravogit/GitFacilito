@@ -1,0 +1,17 @@
+commit 8371cfd2d4d4a5912be17768c04e76fd323b9272
+Author: DanielBravo <daniel.bravo@cceo.com.mx>
+Date:   Tue Aug 18 09:50:57 2020 -0500
+
+    Estilos y mas informacion al index
+
+commit 6df4ab35b91113e06128f103b86956369f4e412e
+Author: DanielBravo <daniel.bravo@cceo.com.mx>
+Date:   Tue Aug 18 09:43:04 2020 -0500
+
+    Agregue parrafo a index
+
+commit e9ab6147c1e51db523f904aa1a1719155a565461
+Author: DanielBravo <daniel.bravo@cceo.com.mx>
+Date:   Tue Aug 18 09:40:44 2020 -0500
+
+    Iniciamos
